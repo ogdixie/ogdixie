@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ogdixie</h1>
-<h3 align="center">Im Computer Science student.</h3>
+<h3 align="center">Computer Science student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogdixie&label=Profile%20views&color=0e75b6&style=flat" alt="ogdixie" /> </p>
 
